@@ -1,3 +1,5 @@
+### this has nothing to do with the RAG, it is just example code for groq client usage
+
 from groq_client import GroqClient
 
 def example_simple_chat():
