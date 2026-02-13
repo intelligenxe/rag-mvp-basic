@@ -1,0 +1,1 @@
+This is a very basic version of RAG-MVP for the Strategist 
