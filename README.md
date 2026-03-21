@@ -3,4 +3,4 @@
 
 [rag-mvp-base](https://github.com/intelligenxe/rag-mvp-base) has been derived from **rag-mvp-basic** and is structured so that contributors (including interns) may be able to work on a single feature by simply changing a file or a limited number of files without changing or affecting the rest of the codebase.
 
-By contrast, **rag-mvp-basic** consists essentially of a single file containing a Python class with multiple methods. This RAG implementation is easier to understand but more difficult to maintain in an open-source environment with multiple contributors.
+By contrast, **rag-mvp-basic** consists essentially of a single file containing a Python class with multiple methods. This RAG implementation is easier to understand but more difficult to maintain in an open-source environment with multiple contributors. 
